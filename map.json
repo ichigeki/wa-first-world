@@ -36,7 +36,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mentimeter.com"
+                 "value":"https:\/\/www.mentimeter.com"
                 }],
          "type":"tilelayer",
          "visible":true,
