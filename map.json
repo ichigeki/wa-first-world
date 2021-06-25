@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"office-floor.json"
+                 "value":"https:\/\/ichigeki.github.io\/wa-first-world\/office-floor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
